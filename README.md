@@ -37,7 +37,6 @@ I also write about biology, bioinformatics and the process of learning how to as
 
 ---
 
-*Just Be Ready.*
 
 
 <!--
